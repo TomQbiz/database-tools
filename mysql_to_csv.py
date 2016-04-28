@@ -1,7 +1,7 @@
 #!/usr/bin/python
 ##########################
 #
-# Connect to lookout analytics database and get table descriptions from dim_ and xfm_ tables
+# Connect to  database execute sql commands 
 #
 # T.H 4/18/2016
 #
