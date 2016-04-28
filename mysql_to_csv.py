@@ -21,8 +21,8 @@ signal(SIGPIPE, SIG_DFL)
 block_size = 10000
 
 # config for database access
-config_file='lookout.ini'
-config_section = "mysql lookout legacy analytics"
+config_file='db.ini'
+config_section = "some name"
 
 parser = SafeConfigParser()
 
